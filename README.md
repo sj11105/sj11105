@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Frontend Development<br>I'm looking to contribute in frontend projects<br>I'm currently learning mobile application development
+I'm currently working on Full Stack Development<br>I'm looking to contribute in fullstack projects<br>I'm currently learning mobile application development
 
 
 ## 🌐 Socials:
