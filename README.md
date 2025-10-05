@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working on Full Stack Development<br>I'm looking to contribute in fullstack projects<br>I'm currently learning mobile application development
-
+Working in FullStack Development Domain.Exploring mobile application development and WebXR. 
 
 ## 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sneha11105) 
